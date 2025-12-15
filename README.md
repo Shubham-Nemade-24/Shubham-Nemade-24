@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🧑🏻‍💻 About Me:
 🔭 I’m currently working on<br>AI-powered systems using LLMs, RAG, and vector databases, including automation projects like AI agents for document/certificate management and improving full-stack applications with clean backend integration.  ￼<br><br>👯 I’m looking to collaborate on<br>Projects involving Generative AI, AI agents, backend development, full-stack apps, and data-driven systems.<br><br>🤝 I’m looking for help with<br>Advanced system design for scalable AI applications, production-level deployment of LLM systems, and performance optimization for vector search pipelines.<br><br>🌱 I’m currently learning<br>Advanced Generative AI concepts, Retrieval-Augmented Generation (RAG), LLM optimization, and strengthening DSA & system design for interviews and real-world systems.<br><br>💬 Ask me about<br>Generative AI, LangChain, RAG pipelines, Streamlit apps, OCR + LLM workflows, C++ DSA, Java backend development, PostgreSQL, and MongoDB.
 
 
